@@ -1,0 +1,151 @@
+h1
+{
+	border-radius: 0px;
+	padding-top: 5px;
+}
+ 
+.alinear_titol
+{
+	margin-top: 10px;
+	display: block inline;
+}
+
+.red-con
+{
+	border-radius: 20px;
+	margin: auto;
+    background-color: white;
+    width: 60%;
+    text-align: center;
+    float: none;
+}
+ 
+.grey
+{
+	height: 40em;
+}
+ 
+.gris
+{
+	background-color: grey;
+}
+ 
+.minim
+{
+	height: 42em;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #B0B0B0;
+	padding:0px 20px;
+}
+ 
+.marge_esquerra
+{
+	margin-left: 15px;
+}
+ 
+.pointer
+{
+	cursor: pointer;
+}
+
+.glyphicon.glyphicon-plus 
+{
+    font-size: 2em;
+	font: bold;
+}
+
+#fons
+{
+	background-image: url("../imatges/fons.png");
+	min-height: 42em;
+	/*background-repeat: no-repeat;*/
+	width: 100%;
+}
+
+#fons2
+{
+	-webkit-box-shadow: 6px 3px 17px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 6px 3px 17px 0px rgba(0,0,0,0.75);
+	box-shadow: 6px 3px 17px 0px rgba(0,0,0,0.75);
+}
+
+#fons3
+{
+	-webkit-box-shadow: 6px 3px 17px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 6px 3px 17px 0px rgba(0,0,0,0.75);
+	box-shadow: 6px 3px 17px 0px rgba(0,0,0,0.75);
+}
+
+#inici
+{
+	color: black;
+}
+
+#menu_app
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#menu_substancia
+{
+	visibility: hidden;
+	display: none;
+}
+
+#menu_substancia_eliminar
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#menu_estoc
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#menu_usuaris
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#menu_localitzacions
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#menu_historic
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#menu_comandes
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#contingut_inici
+{
+	visibility: visible;
+	display: block;
+}
+ 
+#contingut_gestor
+{
+	visibility: hidden;
+	display: none;
+}
+ 
+#menu_parametres
+{
+	visibility: hidden;
+	display: none;
+}
